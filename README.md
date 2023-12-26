@@ -1,8 +1,8 @@
-Deep Learning Assessment
-'''
-Task 1: Face Edge Detection on Canny and Sobel
-Task 2: Coins Reading
-'''
+##Deep Learning Assessment
+
+####Task 1: Face Edge Detection on Canny and Sobel
+####Task 2: Coins Reading
+
 <!--
 **fkhrlamn/FkhrlAmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
